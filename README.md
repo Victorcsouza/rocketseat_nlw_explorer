@@ -4,9 +4,9 @@
 
 Trilha Explorer 
 
-Projeto construído do evento da Rockseat !
+Projeto construído do evento da Rocketseat !
 
-[Clique aqui para acessar](https://victorcsouza.github.io/rockseat_nlw_explorer/)
+[Clique aqui para acessar](https://victorcsouza.github.io/rocketseat_nlw_explorer/)
 
 
 ## Tecnologias : 
